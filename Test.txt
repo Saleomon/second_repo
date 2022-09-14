@@ -1,1 +1,2 @@
 Я вивчаю GIT
+New text
